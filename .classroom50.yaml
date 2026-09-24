@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "1-itf-webdesign-essentials"
+assignment: "2026-2027-1acs-2-webdesign-essent"
+owner:
+  username: "111morris"
+  id: 156342676
+  accepted_at: "2026-09-24T07:04:34Z"
+source:
+  owner: "AnnHannes"
+  owner_id: 36801877
+  repo: "webdesign-essentials-2026-2027"
+  branch: "main"
