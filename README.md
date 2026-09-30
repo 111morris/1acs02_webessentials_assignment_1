@@ -1,5 +1,5 @@
-
 # 1ITF Webdesign Essentials 26-27
+
 These are the starting files for **Webdesign Essentials** for 1ITF of the Thomas More University of Applied Sciences (campus Geel).
 
 ![Thomas More University of Applied Sciences](logo.png)
@@ -8,15 +8,16 @@ These are the starting files for **Webdesign Essentials** for 1ITF of the Thomas
 **add-commit-push after each class and each time you made exercises or worked on your project**
 
 Keep this repo 100% up to date!
-> **Note:** This is a **private** repo, containing **individual work**. 
-Plagiarism or the unauthorized use of AI for code generation is a serious violation with real consequences.
 
-| Student | Info |
-| --- | ---|
-| Name | (fill in your first name)       |
-| Surname| (fill in your surname)  |
-| Class | (1ITFx or 1ACSx) |
-| Prior knowledge | (describe your prior knowledge about webdesign, none is totally fine!) |
-| Additional information | (is there something you want us to know about you?) |
-| Sinners-webspace | (correct url, e.g. https://account.sinners.be) |
-| Pexels-account | (correct url, e.g. https://www.pexels.com/@account-information) |
+> **Note:** This is a **private** repo, containing **individual work**.
+> Plagiarism or the unauthorized use of AI for code generation is a serious violation with real consequences.
+
+| Student                | Info                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name                   | Morris                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Surname                | Mulandi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Class                  | 1ACS2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Prior knowledge        | well informed                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Additional information | I have a well informed understanding of several specific areas in web development and I am looking forward to strengthening my skills in those areas that are somewhat challenging to me. i have spent a lot of time outside the class hours in my previous studies before joining Thomas More building projects.. Through those projects developing multiple portfolio websites using Next.js, Tailwind CSS and other modern technologies, I've become comfortable with web development workflows and react based frameworks. |
+| Sinners-webspace       | (correct url, e.g. https://account.sinners.be)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Pexels-account         | [www.pexels.com/@morris-mulandi-2164425341](https://www.pexels.com/@morris-mulandi-2164425341/)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
